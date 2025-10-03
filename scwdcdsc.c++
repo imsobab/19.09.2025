@@ -1,4 +1,4 @@
-
+#получить строки с заглавными и строчными буквами
 #include <string>
 
 int main() {
@@ -13,4 +13,5 @@ int main() {
     std::cout << "Заглавные: " << uppercase << std::endl;
     std::cout << "Строчные: " << lowercase << std::endl;
     return 0;
+
 }
